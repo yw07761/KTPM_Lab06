@@ -9,9 +9,12 @@ Trong tệp pom.xml của cả CustomerService và OrderService, thêm dependenc
 3. Cấu hình Eureka Client:
 Trong tệp cấu hình Spring Boot (application.properties hoặc application.yml), thêm cấu hình cho Eureka Client:
 
-![image](https://github.com/yw07761/KTPM_Lab06/assets/89188722/bd37b5d0-8a68-4efd-a6d1-80f3a3af863b)
+![image](https://github.com/yw07761/KTPM_Lab06/assets/89188722/968508e6-44c0-4a8d-b3dd-6f403766cf6c)
 
-5. Mô tả chương trình
+![image](https://github.com/yw07761/KTPM_Lab06/assets/89188722/e3865cb4-4693-4bca-9753-79da9010e888)
+
+
+4. Mô tả chương trình
    
 ![image](https://github.com/yw07761/KTPM_Lab06/assets/89188722/99932b20-950f-44e4-91d0-010024293f38)
 
